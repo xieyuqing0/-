@@ -1,2 +1,2 @@
-##Data-driven hysteresis construction of piezoelectric ceramic actuators
-- 压电陶瓷致动器(PCA)的迟滞非线性严重制约其在高精度定位系统中的控制性能，建立准确的迟滞模型是实现高精度控制的关键。
+**Data-driven hysteresis construction of piezoelectric ceramic actuators**
+**压电陶瓷致动器(PCA)的迟滞非线性严重制约其在高精度定位系统中的控制性能，建立准确的迟滞模型是实现高精度控制的关键。**
